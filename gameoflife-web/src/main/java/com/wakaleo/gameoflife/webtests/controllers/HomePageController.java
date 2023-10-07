@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
  /**
+ * THIS IS PRACTICE PURPOSE LINE ADDED
  * Wakaleo Consulting - John Ferguson Smart
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
