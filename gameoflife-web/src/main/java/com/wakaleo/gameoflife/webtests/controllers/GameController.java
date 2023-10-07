@@ -18,6 +18,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  * GameController.java
  * Controller to navigate the buttons on the game pages
  */
+ * this is jack test line added
 @Controller
 @RequestMapping("/game")
 public class GameController {
